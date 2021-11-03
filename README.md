@@ -56,7 +56,7 @@
 
 <img src="https://user-images.githubusercontent.com/28525747/140067954-9c297afe-f4e0-46da-adc2-7cc7b74ec1b0.png" width="400" height="550"/>
 
-(예시 사진 : 문 연 가게가 어디지 서비스)<br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/28525747/140068403-2d5fe8f9-c081-4f4f-9e1d-677e5a799300.png" width="400" height="550"/>
 
