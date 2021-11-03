@@ -4,7 +4,7 @@
 최근 코로나가 장기됨에 따라 MZ세대에게 코로나가 끝나면 하고싶은 일이 뭐가 있는지에 대한 
 조사를함에 따리 여행관련된 서비스가 있다면 좋겠다라고 생각이 들었다.
 ![image](https://user-images.githubusercontent.com/28525747/140058662-587baa0c-3409-4d9f-9987-d93cf92b5ad3.png)
-(출처 : )
+(출처 : http://www.kukinews.com/newsView/kuk202107050067)
 
 
 
