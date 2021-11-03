@@ -37,6 +37,7 @@
 <img src="https://user-images.githubusercontent.com/78288539/140067460-ee298fa5-1fc6-4c68-8b56-3a413d67b0ca.png" width="400" height="550"/>
 
 (예시 사진 : 문 연 가게가 어디지 서비스)<br>
+
 어떤 가게에서 결제가 많이 일어나고 있는지에 정보만 제공하는 것이 아닌 어느 시간대에 결제가 많이 일어나는지에 대한 정보를 제공하여
 이용자가 사람들이 별로 없는 시간대에 방문할 수 있도록 도움을 줄 수 있고 또한 이용자와 동일 성별은 가진사람이나 비슷한 연령대의 사람들이
 어떠한 장소를 자주 방문하는지에 대한 정보와 같이 자세한 정보를 제공할 수 있따.
@@ -53,6 +54,14 @@
 시간 : 저녁
 업종 : 양식, 중식, 한식
 로 확인하면 그에 맞는 가게들이 리스트업 되어서 확인할 수 있다
-![image](https://user-images.githubusercontent.com/28525747/140067954-9c297afe-f4e0-46da-adc2-7cc7b74ec1b0.png)
 
+<img src="https://user-images.githubusercontent.com/28525747/140067954-9c297afe-f4e0-46da-adc2-7cc7b74ec1b0.png" width="400" height="550"/>
+
+(예시 사진 : 문 연 가게가 어디지 서비스)<br>
+
+<img src="https://user-images.githubusercontent.com/28525747/140068403-2d5fe8f9-c081-4f4f-9e1d-677e5a799300.png" width="400" height="550"/>
+
+(예시 사진 : 문 연 가게가 어디지 서비스)<br>
+
+또한 특정 업계에 국한된 것이 아니라 결제가 이루워지는 모든 업계에 데이터를 가져올 수 있어 큰 도움이 될 것 같다.
 
