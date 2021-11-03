@@ -19,7 +19,7 @@
 영수증에 있는 데이터들 즉 카드회사에 있는 데이터들을 가지고 어떤 연령대의 사람들이 어떤 소비를 하는지를
 빅데이터화 해서 사용할 수 있는 데이터로 가공한 후 
 네이버지도, 구글지도 같은 지도의 api로 매칭을하여 보여준다.
-<img src="https://user-images.githubusercontent.com/78288539/140065070-bacbc0d8-bbdf-4c3d-b8b8-5a371a54b57c.png" width="900" height="450"/>
+<img src="https://user-images.githubusercontent.com/78288539/140065070-bacbc0d8-bbdf-4c3d-b8b8-5a371a54b57c.png" width="900" height="550"/>
 (예시 사진 : 직방)
 데이터들을 수집된 데이터들은 위 사진 처럼 결제가 많이 일어난 곳은 큰 동그라미로 비교적 적은 결제가 일어났던 곳은
 작은 동그라미로 표시하여 어떠한 곳에서 많은 결제가 일어나고 있는지 사용자가 한 눈에 파악할 수 있도록 도움을 준다.
