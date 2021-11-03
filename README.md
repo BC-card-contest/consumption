@@ -1,1 +1,1 @@
-# consumption
+# 소비 트랜드 서비스
